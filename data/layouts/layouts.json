@@ -4420,6 +4420,16 @@
       "secondary_tileset": "gTileset_Sootopolis",
       "border_filepath": "data/layouts/Test_Island/border.bin",
       "blockdata_filepath": "data/layouts/Test_Island/map.bin"
+    },
+    {
+      "id": "LAYOUT_TEST_ISLAND_LOW_TIDE",
+      "name": "Test_Island_Low_Tide_Layout",
+      "width": 50,
+      "height": 50,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Sootopolis",
+      "border_filepath": "data/layouts/Test_Island_Low_Tide/border.bin",
+      "blockdata_filepath": "data/layouts/Test_Island_Low_Tide/map.bin"
     }
   ]
 }

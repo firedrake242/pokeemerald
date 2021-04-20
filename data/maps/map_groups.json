@@ -35,7 +35,9 @@
     "gMapGroup31",
     "gMapGroup32",
     "gMapGroup33",
-    "gMapGroup34"
+    "gMapGroup34",
+    "gMapGroup35",
+    "gMapGroup36"
   ],
   "gMapGroup0": [
     "PetalburgCity",
@@ -626,5 +628,11 @@
   "gMapGroup34": [
     "Test_Island",
     "Test_Island_Low_Tide"
+  ],
+  "gMapGroup35": [
+    "TestIsland_House1"
+  ],
+  "gMapGroup36": [
+
   ]
 }

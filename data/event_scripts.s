@@ -1064,3 +1064,5 @@ Common_EventScript_LegendaryFlewAway:: @ 8273776
 	.include "data/maps/Test_Island/scripts.inc"
 
 	.include "data/maps/Test_Island_Low_Tide/scripts.inc"
+
+	.include "data/maps/TestIsland_House1/scripts.inc"

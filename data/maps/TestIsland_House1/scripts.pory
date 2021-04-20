@@ -1,1 +1,9 @@
 mapscripts TestIsland_House1_MapScripts {}
+
+script Island_Elder_1{
+lock
+faceplayer
+msgbox(format(This is an old man who lives on the island. He will give you a quest one day))
+release
+end
+}

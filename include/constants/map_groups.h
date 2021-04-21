@@ -590,6 +590,7 @@
 // Map Group 34
 #define MAP_TEST_ISLAND          (0 | (34 << 8))
 #define MAP_TEST_ISLAND_LOW_TIDE (1 | (34 << 8))
+#define MAP_NEW_MAP1             (2 | (34 << 8))
 
 // Map Group 35
 #define MAP_TEST_ISLAND_HOUSE1 (0 | (35 << 8))

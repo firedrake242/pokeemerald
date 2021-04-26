@@ -4450,6 +4450,16 @@
       "secondary_tileset": "gTileset_Mauville",
       "border_filepath": "data/layouts/NewMap1/border.bin",
       "blockdata_filepath": "data/layouts/NewMap1/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUSTBORO_2",
+      "name": "Rustboro_2_Layout",
+      "width": 35,
+      "height": 50,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/Rustboro_2/border.bin",
+      "blockdata_filepath": "data/layouts/Rustboro_2/map.bin"
     }
   ]
 }
